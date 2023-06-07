@@ -1,0 +1,7 @@
+C:\Users\leonardo.ykonichi\source\repos\Aula6leo\Aula6leo\bin\Debug\Aula6leo.exe.config
+C:\Users\leonardo.ykonichi\source\repos\Aula6leo\Aula6leo\bin\Debug\Aula6leo.exe
+C:\Users\leonardo.ykonichi\source\repos\Aula6leo\Aula6leo\bin\Debug\Aula6leo.pdb
+C:\Users\leonardo.ykonichi\source\repos\Aula6leo\Aula6leo\obj\Debug\Aula6leo.csproj.AssemblyReference.cache
+C:\Users\leonardo.ykonichi\source\repos\Aula6leo\Aula6leo\obj\Debug\Aula6leo.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.ykonichi\source\repos\Aula6leo\Aula6leo\obj\Debug\Aula6leo.exe
+C:\Users\leonardo.ykonichi\source\repos\Aula6leo\Aula6leo\obj\Debug\Aula6leo.pdb
